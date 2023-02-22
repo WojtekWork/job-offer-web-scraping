@@ -18,4 +18,3 @@ in which cities such people can be hired,
 whether it is possible for a team to be established in one city.
 Employment offers are to appear on the nofluffjobs website, and she is to be used as the basis for the analysis.
 
-Translated with www.DeepL.com/Translator (free version)
