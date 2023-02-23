@@ -18,3 +18,6 @@ in which cities such people can be hired,
 whether it is possible for a team to be established in one city.
 Employment offers are to appear on the nofluffjobs website, and she is to be used as the basis for the analysis.
 
+The project is carried out as part of the specialized Data Lab course from CodersLab
+
+
